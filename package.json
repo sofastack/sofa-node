@@ -1,6 +1,6 @@
 {
   "name": "sofa-node",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A microservices framework for Node.js",
   "main": "index.js",
   "dependencies": {
@@ -45,7 +45,8 @@
     "url": ""
   },
   "keywords": [
-    "egg", "egg-framework"
+    "egg",
+    "egg-framework"
   ],
   "author": "gxcsoccer <gxcsoccer@126.com>",
   "files": [
@@ -54,6 +55,9 @@
     "lib",
     "index.js"
   ],
-  "eslintIgnore": ["coverage", "dist"],
+  "eslintIgnore": [
+    "coverage",
+    "dist"
+  ],
   "license": "MIT"
 }
