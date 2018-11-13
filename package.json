@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "egg": "^2.13.0",
+    "egg-healthy": "^1.0.0",
     "egg-lookout": "^1.0.0",
     "egg-opentracing": "^1.1.1",
     "egg-opentracing-zipkin": "^1.0.0",
@@ -44,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:alipay/sofa-node.git"
   },
   "keywords": [
     "egg",
