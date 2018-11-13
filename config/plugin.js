@@ -44,3 +44,8 @@ exports.lookout = {
   enable: false,
   package: 'egg-lookout',
 };
+
+exports.healthy = {
+  enable: true,
+  package: 'egg-healthy',
+};
