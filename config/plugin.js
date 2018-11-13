@@ -1,8 +1,23 @@
 'use strict';
 
+exports.rpc = {
+  enable: true,
+  package: 'egg-rpc-base',
+};
+
 exports.sofaRpc = {
   enable: true,
   package: 'egg-sofa-rpc',
+};
+
+exports.sofaAntvip = {
+  enable: false,
+  package: 'egg-sofa-antvip',
+};
+
+exports.sofaDsr = {
+  enable: false,
+  package: 'egg-sofa-dsr',
 };
 
 exports.opentracing = {
@@ -28,9 +43,4 @@ exports.prometheus = {
 exports.lookout = {
   enable: false,
   package: 'egg-lookout',
-};
-
-exports.react = {
-  enable: false,
-  package: 'egg-view-react',
 };
