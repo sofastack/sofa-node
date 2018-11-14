@@ -10,6 +10,11 @@ exports.sofaRpc = {
   package: 'egg-sofa-rpc',
 };
 
+exports.rest = {
+  enable: false,
+  package: 'egg-rest',
+};
+
 exports.sofaAntvip = {
   enable: false,
   package: 'egg-sofa-antvip',
