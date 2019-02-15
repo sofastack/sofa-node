@@ -1,4 +1,10 @@
 
+1.0.1 / 2019-02-15
+==================
+
+**fixes**
+  * [[`ed41abe`](http://github.com/alipay/sofa-node/commit/ed41abe3567ad8c14093ba158893b09fc63b2599)] - fix: use egg-sofa-tracer@2 to fit egg-sofa-rpc@2 (#6) (zōng yǔ <<gxcsoccer@users.noreply.github.com>>)
+
 1.0.0 / 2018-11-13
 ==================
 
